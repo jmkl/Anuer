@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:entries="@array/style_entri"
+        android:entryValues="@array/style_val"
+        android:key="anu_layout_style"
+        android:summary="pilih susunan icon statusbar sesuai dengan selera anda"
+        android:title="Statusbar Layout Style" />
+<PreferenceScreen
+    android:title="Bug Report"
+    android:summary="dcsms@live.com" >
+</PreferenceScreen>
+</PreferenceScreen>
